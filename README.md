@@ -1,7 +1,7 @@
 # study-manager
 GUI app coded in Python that can keep track of tasks and has a built in stopwatch to maintain productivity
 
-![ezgif-1-378cb7ae17](https://user-images.githubusercontent.com/102619047/181864423-f8ee6eda-4c60-4057-9774-643bd10436a2.gif)
+![ezgif-1-378cb7ae17](https://user-images.githubusercontent.com/102619047/181864423-f8ee6eda-4c60-4057-9774-643bd10436a2.gif) <br/>
 Up to 5 tasks can be put in the entryboxes before starting. An error will occur if no tasks are entered. 
 
 ![ezgif-1-b325a35bbc](https://user-images.githubusercontent.com/102619047/181864678-9f346d66-cd8f-4f9a-bd5f-5fcf744ee8a2.gif)
