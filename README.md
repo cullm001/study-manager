@@ -1,6 +1,7 @@
 # study-manager
 GUI app coded in Python that can keep track of tasks and has a built in stopwatch to maintain productivity
-![ezgif-1-2a7d3ca434](https://user-images.githubusercontent.com/102619047/181864959-61b4bb93-746a-4257-8456-02711b344150.gif)
+![ezgif-1-c1755c7c0e](https://user-images.githubusercontent.com/102619047/181870697-ae514799-5745-4f49-93c9-4c880caae6c0.gif)
+
 
 
 <br/>
